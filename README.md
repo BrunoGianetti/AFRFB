@@ -80,5 +80,6 @@ With day of exam marked and all disciplins studied.
 <img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-34-51.png">
 
 # Final Considerations
+Yeah! I Love Excel or Libreoffice. =) Download the .ods, see more details and be happy.
 
-Yeah! I Love Excel or Libreoffice. =)
+I hope you enjoy and help you in anything.
