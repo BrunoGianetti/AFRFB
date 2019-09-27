@@ -11,7 +11,7 @@ I studied 8 years for a public carrier in Brazil called "Auditor Fiscal da Recei
       (4) Comparative Charts
       (5) Memory Curve
       (6) Time Analisys
-      (7) Tatics Analisys
+      (7) Tactical Analisys
       (8) Positive Diary
       (9) Final Sprint
  
@@ -57,4 +57,28 @@ Here I register hours of study per day.
 
 <img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-33-47.png">
 
-# 
+# Tactical Analisys
+
+Here I explorer different ways of make results in exams and register my perceptions about what could be better.
+
+<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-34-00.png">
+
+# Positive Diary
+
+Here I register anything what happens in my day/week/month for a positive view of my effort.
+
+<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-34-08.png">
+
+# Final Sprint
+
+With day of exam marked and all disciplins studied.
+
+<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-34-28.png">
+
+<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-34-36.png">
+
+<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-34-51.png">
+
+# Final Considerations
+
+Yeah! I Love Excel or Libreoffice. =)
