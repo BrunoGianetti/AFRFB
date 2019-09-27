@@ -21,11 +21,11 @@ Here I register my progress day by day and note revisions. Without day of proof 
 
 First
 
-<img width="300" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-31-07.png">
+<img width="500" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-31-07.png">
 
 Second
 
-<img width="300" alt="rename screenshot"src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-31-48.png">
+<img width="500" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-31-48.png">
 
 # Reviews Chapters
 
