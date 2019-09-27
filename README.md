@@ -5,15 +5,15 @@ I studied 8 years for a public carrier in Brazil called "Auditor Fiscal da Recei
 ## The file contain:
 
 - 9 spreadsheets:
-      -1 Macrocontrol
-      -2 Reviews Chapters
-      -3 Analitic Progress
-      -4 Comparative Charts
-      -5 Memory Curve
-      -6 Time Analisys
-      -7 Tatics Analisys
-      -8 Positive Diary
-      -9 Final Sprint
+      (1) Macrocontrol
+      (2) Reviews Chapters
+      (3) Analitic Progress
+      (4) Comparative Charts
+      (5) Memory Curve
+      (6) Time Analisys
+      (7) Tatics Analisys
+      (8) Positive Diary
+      (9) Final Sprint
  
 # Macrocontrol
 
@@ -43,4 +43,18 @@ Here I have an overview about all my study class material.
 
 Here I took public results of candidats and compare with mine.
 
-<img width="300" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-32-56.png">
+<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-32-56.png">
+
+# Memory Curve
+
+Here I simulate exams and record the results several times from time to time. Then I calculate an estimated time for periodic reviews.
+
+<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-33-31.png">
+
+# Time Analisys
+
+Here I register hours of study per day.
+
+<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/AFRFB/blob/master/Captura%20de%20tela%20de%202019-09-27%2015-33-47.png">
+
+# 
